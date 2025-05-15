@@ -1,0 +1,6 @@
+name = "obaro-landing"
+compatibility_date = "2025-05-15"
+
+[pages]
+project_name = "obaro-landing"
+directory = "./out"
