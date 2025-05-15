@@ -184,7 +184,7 @@ export default function OurMission() {
         <div className='mission-scroll-animate md:w-10/12 w-full'>
           <h4 className={`text-xl md:text-2xl leading-[44px] ${currentTheme === 'dark' ? 'text-white' : 'text-[#4A4C56]'}`}>
             At Obaro Industries, we&apos;re building the digital infrastructure for creators, marketers, and businesses to scale effortlessly. Whether you&apos;re launching a startup, scaling your ecommerce brand, <span className={`${currentTheme === 'dark' ? 'text-[#A5A5AB]' : 'text-[#777980]'}`}>
-              or automating your workflow—we help you get there faster with intelligent software and full-funnel marketing services.
+              or automating your workflow;ßwe help you get there faster with intelligent software and full-funnel marketing services.
             </span>
           </h4>
         </div>

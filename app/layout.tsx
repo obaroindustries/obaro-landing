@@ -16,7 +16,7 @@ const geistSans = Geist({
 
 export const metadata: Metadata = {
   title: "Obaro Industries",
-  description: "At Obaro Industries, we're building the digital infrastructure for creators, marketers, and businesses to scale effortlessly.Whether you're launching a startup, scaling your ecommerce brand, or automating your workflow—we help you get there faster with intelligent software and full-funnel marketing services.",
+  description: "At Obaro Industries, we're building the digital infrastructure for creators, marketers, and businesses to scale effortlessly.Whether you're launching a startup, scaling your ecommerce brand, or automating your workflow; ßwe help you get there faster with intelligent software and full-funnel marketing services.",
 };
 
 export default function RootLayout({
